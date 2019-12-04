@@ -1,0 +1,15 @@
+1password
+alfred
+android-platform-tools
+clipgrab
+fuse
+gimp
+java
+mactex
+miniconda
+osxfuse
+packetsender
+reaper
+spotify
+wireshark
+xquartz
